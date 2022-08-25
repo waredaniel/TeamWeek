@@ -17,7 +17,8 @@ This is a 2D topdown adventure game build with Unity. In this prototype, there i
 * This project needs Unity to be downloaded. Please download the correct version for your needs here: https://unity.com/download
 * The project files are contained in a zip file here: https://drive.google.com/drive/folders/1QlJfoM2y70_qmNhDupu9CabPzGMYC8Qf
 * Download the file : WrenchKnightFinal and unzip to folder of your choice
-* Open the Unity Hub Setup and open the W
+* Open the Unity Hub Setup and open the WrenchKnightFinal folder
+* In Unity, go to File> Build and Run to play game
 
 
 ## Known Bugs
